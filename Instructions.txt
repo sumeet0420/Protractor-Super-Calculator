@@ -1,0 +1,3 @@
+To run this, to go command promt/terminal and type
+
+protractor JSFiles/conf.js
